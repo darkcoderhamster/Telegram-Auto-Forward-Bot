@@ -524,6 +524,7 @@ node index.js
 ---
 
 **Need Help?** Check the troubleshooting section or open an issue on GitHub.
+
 **Contact**: https://t.me/darkcoderhamster
 
 **Disclaimer**: This bot uses Telegram's unofficial API. Use at your own risk and ensure compliance with Telegram's Terms of Service.
